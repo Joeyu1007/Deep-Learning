@@ -3,6 +3,7 @@ import torch
 from PIL import Image
 import numpy as np
 import scipy.misc
+from PIL import Image 
 
 
 # image = Image.open('C:/lab/玉米种子新数据集/标记55/_DSC2838 拷贝.jpg')
